@@ -49,6 +49,16 @@ button {
   outline: none;
 }
 
+.app__cameraVideo {
+  width: 400px;
+  height: 200px;
+  margin: 50px 0;
+  outline: none;
+}
+img {
+  width: 400px;
+  height: 200px;
+}
 @media (min-width: 600) {
   .app__video {
     margin-top: 0;
